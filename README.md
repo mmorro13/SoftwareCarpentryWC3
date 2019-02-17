@@ -5,7 +5,7 @@ This repository contains:\
 hello.py\
 mundaneMath.py\
 index.html\
-no.jekyll\
+no.jekyll
 
 
 By: Marina Morrow
